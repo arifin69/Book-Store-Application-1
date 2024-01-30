@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>label_Zishan90</name>
    <tag></tag>
-   <elementGuidId>b5f81beb-3e19-4c0e-8a86-55dfa3835ec9</elementGuidId>
+   <elementGuidId>dd919ec6-7ba1-4b28-ae57-d9cff9f9e9ff</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#login</value>
+         <value>#userName-value</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='login']</value>
+         <value>//label[@id='userName-value']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>c806f80c-b86b-4f77-9f75-ca751108debd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>login</value>
-      <webElementGuid>f8049525-3776-4fd5-919e-b56884ba4ada</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>a41934fa-6c48-48a2-bf63-30b632b3fde1</webElementGuid>
+      <value>label</value>
+      <webElementGuid>129ef9c1-3337-4103-b577-0a2f3743e743</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>020ca5c4-7916-4cac-b17a-ef1a887df5e2</webElementGuid>
+      <value>form-label</value>
+      <webElementGuid>fcfb0c3b-64a7-469a-a679-4b98d473b94c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#000000</value>
+      <webElementGuid>9ab650b7-e4c6-4fd2-b18a-98b82088acc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>userName-value</value>
+      <webElementGuid>53a23385-65cf-4502-a48e-eeaf4999b236</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>0aa22b05-b94b-4617-a209-0f58478786f5</webElementGuid>
+      <value>Zishan90</value>
+      <webElementGuid>0fb6ca1c-607d-4777-ae30-f2ca114e360c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login&quot;)</value>
-      <webElementGuid>0cdd7424-9b4c-4309-8242-02c0fccb9f48</webElementGuid>
+      <value>id(&quot;login-wrapper&quot;)/div[@class=&quot;text-right col-md-4 col-sm-12&quot;]/label[@id=&quot;userName-value&quot;]</value>
+      <webElementGuid>a86a7dfa-8b0c-47dc-a7c5-2ad01cc8cb33</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='login']</value>
-      <webElementGuid>8550eb48-edcf-4e10-81fb-934eca41ba5f</webElementGuid>
+      <value>//label[@id='userName-value']</value>
+      <webElementGuid>6cdc763a-f42a-4dea-800d-a8b887bc78c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='userForm']/div[4]/div/button</value>
-      <webElementGuid>0445919d-00c5-435c-87ce-68330d63dc3d</webElementGuid>
+      <value>//div[@id='login-wrapper']/div/label[2]</value>
+      <webElementGuid>7b8196eb-4cd5-462f-9910-6b1be42d6ac0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/button</value>
-      <webElementGuid>15b01b8d-d6f0-45ff-b547-dd6dff7497d0</webElementGuid>
+      <value>//label[2]</value>
+      <webElementGuid>c2f195c1-99ae-4335-b998-6ecb0f63409a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'login' and @type = 'button' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>407fc4d0-9105-46ff-b44b-59f961931ec3</webElementGuid>
+      <value>//label[@id = 'userName-value' and (text() = 'Zishan90' or . = 'Zishan90')]</value>
+      <webElementGuid>0451020d-369d-4a17-a2f0-5294aa4af3ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

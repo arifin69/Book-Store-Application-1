@@ -6,12 +6,12 @@
    <elementGuidId>e71eed7f-719a-4f5a-93bd-e51d17ebf218</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@id='addNewRecordButton'])[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.text-right.fullButton > #addNewRecordButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='addNewRecordButton'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a67e5a78-2d3d-488d-a588-d39f948639ed</webElementGuid>
+      <webElementGuid>0abd3186-ce97-4101-9f62-1ab64d7bd9b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>addNewRecordButton</value>
-      <webElementGuid>823c47e5-52f6-4116-aac6-00c0efe5bb82</webElementGuid>
+      <webElementGuid>de4d47df-7761-4d10-b483-6a0fb664b70e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9c31e1fa-7d88-41aa-a407-cfc1d3f00c0f</webElementGuid>
+      <webElementGuid>32da0248-110e-42e1-a9a5-ed6a35c55af2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>ce407c3d-514d-42e7-8a64-a797710d55e5</webElementGuid>
+      <webElementGuid>c53884f4-f65d-4e18-afb1-ff49d12b5c17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add To Your Collection</value>
-      <webElementGuid>277f7fd0-6f03-4771-b7d7-9c0566727596</webElementGuid>
+      <webElementGuid>f2a32033-5b5e-49a9-a5db-a5ec566530e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]/div[@class=&quot;books-wrapper&quot;]/div[@class=&quot;profile-wrapper&quot;]/div[@class=&quot;mt-2 fullButtonWrap row&quot;]/div[@class=&quot;text-right fullButton&quot;]/button[@id=&quot;addNewRecordButton&quot;]</value>
-      <webElementGuid>ed9bc802-b6e5-4a10-89d1-7cae289a4908</webElementGuid>
+      <webElementGuid>e2cad092-6dd0-412c-9634-d80849d8c2ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@id='addNewRecordButton'])[2]</value>
-      <webElementGuid>dbc589c1-68ee-47ba-9b4a-0f0519b2a062</webElementGuid>
+      <webElementGuid>6eb45acd-4221-406b-959d-c5c7c5f10cc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/div[9]/div[2]/button</value>
-      <webElementGuid>6880ff16-ad2e-4095-9ad1-69fcb02a006b</webElementGuid>
+      <webElementGuid>33f98ebc-8e72-42f8-ae78-c431c10e95ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>4d647aed-42f9-4d16-bffb-2f340b7520f0</webElementGuid>
+      <webElementGuid>1bfc67a4-1dac-498b-bf0a-5974f4eda158</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'addNewRecordButton' and @type = 'button' and (text() = 'Add To Your Collection' or . = 'Add To Your Collection')]</value>
-      <webElementGuid>cd2864e7-74f2-4c00-bee3-27ec39621b1e</webElementGuid>
+      <webElementGuid>e220f25b-1df1-4773-9fc0-9f7ff40a40a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

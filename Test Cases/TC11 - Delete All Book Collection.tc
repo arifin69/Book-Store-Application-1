@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC08 - Show Detail Book</name>
+   <name>TC11 - Delete All Book Collection</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>fb8131c4-951d-47c6-93e0-125b1d4b6eb3</testCaseGuid>
+   <testCaseGuid>ed5838cd-6a1b-456f-8215-92d50c761e05</testCaseGuid>
 </TestCaseEntity>

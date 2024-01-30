@@ -6,12 +6,12 @@
    <elementGuidId>1c3ca3aa-0952-475c-8427-3b9f4df442f8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='see-book-Speaking JavaScript']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='see-book-Speaking JavaScript']/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d66de5ae-6734-4abb-88e8-4db6217c7e88</webElementGuid>
+      <webElementGuid>6039da8c-e0f9-4126-bdc1-34c9f95d1e57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/books?book=9781449365035</value>
-      <webElementGuid>3aef0045-af9c-4a2e-8156-618f3efa9482</webElementGuid>
+      <webElementGuid>314e245b-78e8-4b22-a204-f4bc62eb476d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Speaking JavaScript</value>
-      <webElementGuid>e8b833ca-f15c-49d9-bea7-4ac52527d3ba</webElementGuid>
+      <webElementGuid>aa21cafd-68e6-458f-bb16-4159452a03de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;see-book-Speaking JavaScript&quot;)/a[1]</value>
-      <webElementGuid>802e112d-eab5-49af-b689-b317678c7a72</webElementGuid>
+      <webElementGuid>ca806dad-270b-45c8-93e5-c7ccc8ef5ee5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='see-book-Speaking JavaScript']/a</value>
-      <webElementGuid>a1932189-4aeb-4bd6-ae38-9f4dce282295</webElementGuid>
+      <webElementGuid>be9c7c8e-63cb-4a09-ba71-9f0a545545ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Speaking JavaScript')]</value>
-      <webElementGuid>26dfebcd-31dc-4e48-a272-e9d054954338</webElementGuid>
+      <webElementGuid>f4a6f943-a1b7-41a0-9b73-59836f4d65a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/books?book=9781449365035')]</value>
-      <webElementGuid>8025222c-2061-40a2-9b13-8faabd1dc088</webElementGuid>
+      <webElementGuid>c62c13f0-f1d9-4f50-bcf0-1c1b23590ed5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/a</value>
-      <webElementGuid>f8766973-b653-4f72-942c-fd413976b91e</webElementGuid>
+      <webElementGuid>dbc26f63-9702-4695-8218-6ed6eaf8362c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/books?book=9781449365035' and (text() = 'Speaking JavaScript' or . = 'Speaking JavaScript')]</value>
-      <webElementGuid>e1326bbe-8eed-43dc-9469-2774998ba326</webElementGuid>
+      <webElementGuid>bd34c2bd-8407-42b5-8b9e-3b06adfd6590</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>0b4bac20-997f-4950-bda6-c8900d51d263</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='see-book-Learning JavaScript Design Patterns']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='see-book-Learning JavaScript Design Patterns']/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1120720b-9db0-4e2e-83a8-745ae1b1991c</webElementGuid>
+      <webElementGuid>2328ccec-b244-47e3-a68c-3726687fca9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/books?book=9781449331818</value>
-      <webElementGuid>2339b632-b420-4b14-82cc-69e61c6a846e</webElementGuid>
+      <webElementGuid>73ea8169-36f7-4f35-b1ed-d3b3fa36989c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Learning JavaScript Design Patterns</value>
-      <webElementGuid>be02c932-3ce2-4161-827a-1073a7779f2f</webElementGuid>
+      <webElementGuid>ece11dc6-8705-45d9-9eba-d5d7f49b03c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;see-book-Learning JavaScript Design Patterns&quot;)/a[1]</value>
-      <webElementGuid>9eb333a1-6140-4acd-ad43-daacc7d797bd</webElementGuid>
+      <webElementGuid>3d1737a2-d50c-40da-9342-c0d8cdec2c2f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='see-book-Learning JavaScript Design Patterns']/a</value>
-      <webElementGuid>a48b739c-8c85-4924-afb9-2583bd2df703</webElementGuid>
+      <webElementGuid>ff14c6da-0b99-411e-bd15-52c6dbe5eec7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Learning JavaScript Design Patterns')]</value>
-      <webElementGuid>2d1d03d6-d8e7-47f0-9ee3-ef9211636e3d</webElementGuid>
+      <webElementGuid>ab68532b-df58-4236-8a91-014e1affe683</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/books?book=9781449331818')]</value>
-      <webElementGuid>4313f2bd-a066-40fc-914b-f8ecd5acea8f</webElementGuid>
+      <webElementGuid>409d28a9-009e-462d-8016-eedd3f46eb3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/a</value>
-      <webElementGuid>882f9011-1f19-4da4-89f6-09379468d202</webElementGuid>
+      <webElementGuid>d95745fa-3b22-4fba-a7e0-ea8ab71a0a90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/books?book=9781449331818' and (text() = 'Learning JavaScript Design Patterns' or . = 'Learning JavaScript Design Patterns')]</value>
-      <webElementGuid>1c3457e8-1e68-4e3e-bf53-7590d91ed613</webElementGuid>
+      <webElementGuid>a2000bdc-1783-4b6e-95ac-1e49b5ddc403</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

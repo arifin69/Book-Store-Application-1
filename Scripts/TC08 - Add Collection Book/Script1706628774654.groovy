@@ -31,13 +31,25 @@ WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/butt
 
 WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Go To Book Store'))
 
-WebUI.setText(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/inputsearchBox'), 'Learning')
+WebUI.setText(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/inputsearchBox'), 'Speaking')
 
-WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/a_Learning JavaScript Design Patterns'))
+WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/a_Speaking JavaScript'))
 
 WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Add To Your Collection'))
 
-WebUI.delay(7)
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Back To Book Store'))
+
+WebUI.delay(2)
+
+WebUI.scrollToElement(findTestObject('AddCollectionBook/Page_DEMOQA/li_Profile'), 0)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/span_Profile'))
+
+WebUI.delay(5)
 
 WebUI.closeBrowser()
 

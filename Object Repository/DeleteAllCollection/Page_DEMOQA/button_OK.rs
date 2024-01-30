@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>button_OK</name>
    <tag></tag>
-   <elementGuidId>b5f81beb-3e19-4c0e-8a86-55dfa3835ec9</elementGuidId>
+   <elementGuidId>0ad45ee1-0eeb-4502-afcb-6512715472e7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#login</value>
+         <value>#closeSmallModal-ok</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='login']</value>
+         <value>//button[@id='closeSmallModal-ok']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c806f80c-b86b-4f77-9f75-ca751108debd</webElementGuid>
+      <webElementGuid>e2580b00-be63-40f6-be77-bb505004943f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>login</value>
-      <webElementGuid>f8049525-3776-4fd5-919e-b56884ba4ada</webElementGuid>
+      <value>closeSmallModal-ok</value>
+      <webElementGuid>68a3337c-5072-4cc2-a325-828962d5c3c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a41934fa-6c48-48a2-bf63-30b632b3fde1</webElementGuid>
+      <webElementGuid>1dab18fa-2c3b-470c-9eb7-fcea0a8dfd59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,54 +46,46 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>020ca5c4-7916-4cac-b17a-ef1a887df5e2</webElementGuid>
+      <webElementGuid>604dd828-8d20-47c4-be1b-cfea27fddf39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>0aa22b05-b94b-4617-a209-0f58478786f5</webElementGuid>
+      <value>OK</value>
+      <webElementGuid>8e6f76a4-4b5d-4528-8c87-3de696a5bb28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login&quot;)</value>
-      <webElementGuid>0cdd7424-9b4c-4309-8242-02c0fccb9f48</webElementGuid>
+      <value>id(&quot;closeSmallModal-ok&quot;)</value>
+      <webElementGuid>8fb9b1f9-1d3a-465c-9871-b8554511c664</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='login']</value>
-      <webElementGuid>8550eb48-edcf-4e10-81fb-934eca41ba5f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='userForm']/div[4]/div/button</value>
-      <webElementGuid>0445919d-00c5-435c-87ce-68330d63dc3d</webElementGuid>
+      <value>//button[@id='closeSmallModal-ok']</value>
+      <webElementGuid>7a7cca3d-5e80-4e0b-bd57-1710f2f0baa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/button</value>
-      <webElementGuid>15b01b8d-d6f0-45ff-b547-dd6dff7497d0</webElementGuid>
+      <value>//div[5]/div/div/div[3]/button</value>
+      <webElementGuid>adac8361-2c9c-4d58-8dd9-d9ff8a1f8361</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'login' and @type = 'button' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>407fc4d0-9105-46ff-b44b-59f961931ec3</webElementGuid>
+      <value>//button[@id = 'closeSmallModal-ok' and @type = 'button' and (text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>3022d43d-f95e-49e7-b052-b298256acc81</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

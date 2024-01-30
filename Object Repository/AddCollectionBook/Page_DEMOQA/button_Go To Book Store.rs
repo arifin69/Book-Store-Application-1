@@ -6,12 +6,12 @@
    <elementGuidId>c7b5d580-e14e-4b5d-a59a-283c19ef4efd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='gotoStore']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#gotoStore</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='gotoStore']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bf3ddc05-fbc9-4f1e-bf9b-6f37ba773e9a</webElementGuid>
+      <webElementGuid>532bf083-5d17-42e3-8932-48c8333a469a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>gotoStore</value>
-      <webElementGuid>634ecca9-464f-47ec-ba19-0912b52da392</webElementGuid>
+      <webElementGuid>7cd1a0dd-188e-42d3-8825-7f415831a11e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4d064a3b-0698-422d-b8a1-815661f8ae4d</webElementGuid>
+      <webElementGuid>d0ece6c1-a54a-42e2-8009-3de87d6f0b26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>7c5ee381-2e9d-412a-a0dc-d855690035cb</webElementGuid>
+      <webElementGuid>be84faeb-908c-4d81-a9d2-43a6b5aaaf49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go To Book Store</value>
-      <webElementGuid>de122735-ed8f-4d8f-bd44-01a01917b877</webElementGuid>
+      <webElementGuid>4e536be6-8b8a-4118-971f-186898a1d0bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gotoStore&quot;)</value>
-      <webElementGuid>c55ba8f4-0b0d-4ab6-9d50-c0922c55cf3a</webElementGuid>
+      <webElementGuid>9bd895fc-57bd-4902-a493-e35f7c84f62c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='gotoStore']</value>
-      <webElementGuid>3f027b8f-eda5-43d0-9ace-26e205844d0b</webElementGuid>
+      <webElementGuid>e5d7840b-fc3b-4584-bc9a-a7132dcdfa9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[3]/div/button</value>
-      <webElementGuid>2e1bfa22-8411-4841-a02f-f0c0fbf77a84</webElementGuid>
+      <webElementGuid>66999164-0a16-4753-8569-67a9fa73e4c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button</value>
-      <webElementGuid>609516a9-7cc6-4c0c-8661-e406e33c9693</webElementGuid>
+      <webElementGuid>b34c34fa-36bb-4076-acd1-21c5688c8f69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'gotoStore' and @type = 'button' and (text() = 'Go To Book Store' or . = 'Go To Book Store')]</value>
-      <webElementGuid>c372b889-0fa4-4754-bfe2-05f3a37b6dae</webElementGuid>
+      <webElementGuid>74533edb-92f0-4a4a-a685-e4c1f250c8aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
