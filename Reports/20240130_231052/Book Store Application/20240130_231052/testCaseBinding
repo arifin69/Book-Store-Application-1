@@ -1,0 +1,12 @@
+{"testCaseName":"Test Cases/TC02-Login Username Not Valid","testCaseId":"Test Cases/TC02-Login Username Not Valid","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC03-Login Password Not Valid","testCaseId":"Test Cases/TC03-Login Password Not Valid","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC04-Login User And Password Empty","testCaseId":"Test Cases/TC04-Login User And Password Empty","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC01-LoginValidData","testCaseId":"Test Cases/TC01-LoginValidData","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC05 - Search Available Book","testCaseId":"Test Cases/TC05 - Search Available Book","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC06 - Search Not Available Book","testCaseId":"Test Cases/TC06 - Search Not Available Book","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC07 - Show Detail Book","testCaseId":"Test Cases/TC07 - Show Detail Book","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC08 - Add Collection Book","testCaseId":"Test Cases/TC08 - Add Collection Book","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC09 - Add Collection Book Already Exist","testCaseId":"Test Cases/TC09 - Add Collection Book Already Exist","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC15 - Search Book Not Valid Publisher","testCaseId":"Test Cases/TC15 - Search Book Not Valid Publisher","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC14 - Search Book With Not Available Author","testCaseId":"Test Cases/TC14 - Search Book With Not Available Author","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC13 - Search Book With Valid Author","testCaseId":"Test Cases/TC13 - Search Book With Valid Author","iterationVariableName":""}

@@ -29,6 +29,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/AddCollectionBook/Page_
 
 WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Login'))
 
+WebUI.scrollToElement(findTestObject('AddCollectionBook/Page_DEMOQA/li_Profile'), 0)
+
 WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Go To Book Store'))
 
 WebUI.setText(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/inputsearchBox'), 'Speaking')
@@ -37,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/a_Sp
 
 WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Add To Your Collection'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Back To Book Store'))
 
