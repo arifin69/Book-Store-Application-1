@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://demoqa.com/login')
 
 WebUI.setText(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/inputuserName'), 'Zishan90')
@@ -29,9 +31,11 @@ WebUI.click(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/button_
 
 WebUI.click(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/button_Go To Book Store'))
 
-WebUI.setText(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/inputsearchBox'), 'JavaScript Design')
+WebUI.setText(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/inputsearchBox'), 'Javascript Design')
 
 WebUI.click(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/a_Learning JavaScript Design Patterns'))
+
+WebUI.delay(6)
 
 WebUI.closeBrowser()
 

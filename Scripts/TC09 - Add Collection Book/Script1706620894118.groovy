@@ -19,19 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://demoqa.com/login')
 
-WebUI.setText(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/inputuserName'), 'Zishan90')
+WebUI.setText(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/inputuserName'), 'Zishan90')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/inputpassword'), '/tOh0eOC9l0dv0cab18/vQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/inputpassword'), '/tOh0eOC9l0dv0cab18/vQ==')
 
-WebUI.click(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/button_Login'))
+WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/button_Go To Book Store'))
+WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Go To Book Store'))
 
-WebUI.setText(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/inputsearchBox'), 'JavaScript Design')
+WebUI.setText(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/inputsearchBox'), 'Learning')
 
-WebUI.click(findTestObject('Object Repository/ShowDetailBook/Page_DEMOQA/a_Learning JavaScript Design Patterns'))
+WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/a_Learning JavaScript Design Patterns'))
+
+WebUI.click(findTestObject('Object Repository/AddCollectionBook/Page_DEMOQA/button_Add To Your Collection'))
+
+WebUI.delay(7)
 
 WebUI.closeBrowser()
 
