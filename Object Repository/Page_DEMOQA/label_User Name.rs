@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_User Name</name>
+   <tag></tag>
+   <elementGuidId>e3fce25a-fa64-427c-a488-b7c70873415b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[@id='userName-label'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-right.col-md-5.col-sm-12 > #userName-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ab411229-3e6e-428b-86cc-5fde2007b1e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>fd2272c2-040c-4b0d-92b0-93e2b1cd88a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>userName-label</value>
+      <webElementGuid>8f6ef41c-3683-4de9-b283-d4acd191824a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Name : </value>
+      <webElementGuid>612d7566-2a93-4b62-abbf-eb84ad232de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;books-wrapper&quot;)/div[@class=&quot;text-right col-md-5 col-sm-12&quot;]/label[@id=&quot;userName-label&quot;]</value>
+      <webElementGuid>3637a709-e126-4cfe-8e50-ac653026b6a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//label[@id='userName-label'])[2]</value>
+      <webElementGuid>b6875704-014d-4575-94b6-3b860f6a447c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='books-wrapper']/div[3]/label</value>
+      <webElementGuid>0af1da07-34a3-40c2-a473-e9edebe3e60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>0120755d-df24-46fd-9ae4-976f84eef271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'userName-label' and (text() = 'User Name : ' or . = 'User Name : ')]</value>
+      <webElementGuid>096575f7-3606-4b19-b542-9d51ab31d2be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

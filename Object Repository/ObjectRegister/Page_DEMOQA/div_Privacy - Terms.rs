@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Privacy - Terms</name>
+   <tag></tag>
+   <elementGuidId>c004491a-ad73-46c3-a820-4177d59c21f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-anchor-container']/div[4]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rc-anchor-pt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97962efd-81e0-4ee9-9cab-d3df5d262f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-anchor-pt</value>
+      <webElementGuid>bd33e510-7342-476f-9489-f10b260b464f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Privacy - Terms</value>
+      <webElementGuid>5119022f-0137-48f8-88e0-f1d0b577b5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-anchor-container&quot;)/div[@class=&quot;rc-anchor-normal-footer&quot;]/div[@class=&quot;rc-anchor-pt&quot;]</value>
+      <webElementGuid>16c4bf9c-923b-49c7-ae59-808f218cb5b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ObjectRegister/Page_DEMOQA/iframe_a-bt55n8a53z28</value>
+      <webElementGuid>71139980-5a6c-459d-a13d-ada5a643491c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-anchor-container']/div[4]/div[2]</value>
+      <webElementGuid>0e094b9c-88c3-4320-95d7-4d30fdc140e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>55d22823-732e-4ebb-882c-12002d7af83a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Privacy - Terms' or . = 'Privacy - Terms')]</value>
+      <webElementGuid>16b1d98b-7c4f-4e2e-9dff-28a58e2e2a5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
