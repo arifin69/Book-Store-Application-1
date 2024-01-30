@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-LoginValidData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34b7f1ac-5952-4051-9945-2184e532b310</testCaseGuid>
+</TestCaseEntity>
