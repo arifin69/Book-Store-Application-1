@@ -17,21 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://demoqa.com/login')
-
-WebUI.setText(findTestObject('Object Repository/Register/Page_DEMOQA/Page_DEMOQA/inputuserName'), 'Zishan90')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Register/Page_DEMOQA/Page_DEMOQA/inputpassword'), '/tOh0eOC9l0dv0cab18/vQ==')
-
-WebUI.click(findTestObject('Object Repository/Register/Page_DEMOQA/Page_DEMOQA/button_Login'))
-
-WebUI.verifyElementVisible(findTestObject('Page_DEMOQA/label_User Name'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(6)
-
-WebUI.closeBrowser()
-
